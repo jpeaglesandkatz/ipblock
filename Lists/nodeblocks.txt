@@ -4,7 +4,6 @@
 0.0.0.0 teams.live.com
 0.0.0.0 nevondo.com
 0.0.0.0 edge.microsoft.com
-0.0.0.0 brave.com
 0.0.0.0 advertising-cdn.dpgmedia.cloud
 0.0.0.0 qnl-play-fetch.s3.amazonaws.com
 0.0.0.0 amazonaws.com

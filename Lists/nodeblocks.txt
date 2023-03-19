@@ -1,0 +1,8 @@
+0.0.0.0 msn.com
+0.0.0.0 skype.com
+0.0.0.0 bing.com
+0.0.0.0 teams.live.com
+0.0.0.0 nevondo.com
+0.0.0.0 edge.microsoft.com
+0.0.0.0 brave.com
+

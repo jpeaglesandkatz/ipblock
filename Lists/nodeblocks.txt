@@ -6,4 +6,4 @@
 0.0.0.0 qnl-play-fetch.s3.amazonaws.com
 0.0.0.0 amazonaws.com
 0.0.0.0 temptation.nu.nl
-0.0.0.0 ytimg.com
+

@@ -6,3 +6,4 @@
 0.0.0.0 amazonaws.com
 0.0.0.0 temptation.nu.nl
 0.0.0.0 s3.amazonaws.com
+0.0.0.0 edge.com

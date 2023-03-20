@@ -8,3 +8,4 @@
 0.0.0.0 s3.amazonaws.com
 0.0.0.0 edge.com
 0.0.0.0 eu.criteo.com
+0.0.0.0 conviva.com

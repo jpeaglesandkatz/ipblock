@@ -7,6 +7,4 @@
 0.0.0.0 temptation.nu.nl
 0.0.0.0 s3.amazonaws.com
 0.0.0.0 edge.com
-0.0.0.0 vortex.data.microsoft.com
-0.0.0.0 vo.msecnd.net
-0.0.0.0 microsoft.com
+
